@@ -4,7 +4,7 @@
 
 # Work-in-progress ...
 
-The **RIOT-fp** project launched May 2019. Stay tuned for next steps! Meanwhile, you can check out (and reproduce) an early prototype of secure IoT DevOps with RIOT by following this [guide](https://github.com/future-proof-iot/RIOT/tree/suit/examples/suit_update).
+The **RIOT-fp** project launched May 2019. Stay tuned for next steps! Meanwhile, you can check out (and reproduce) an early prototype of secure IoT DevOps with RIOT by following this [guide](https://github.com/RIOT-OS/RIOT/tree/master/examples/suit_update).
 
 # Learn more !
 
