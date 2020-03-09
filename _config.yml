@@ -8,7 +8,7 @@ sass:
   style: uncompressed
 
 url: https://future-proof-iot.github.io/RIOT-fp
-baseurl: https://future-proof-iot.github.io/RIOT-fp
+baseurl: https://future-proof-iot.github.io/RIOT-fp/
 
 #deadlines:
 #- name: Registration
