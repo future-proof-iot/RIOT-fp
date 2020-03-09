@@ -1,0 +1,95 @@
+---
+layout: nil
+---
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>{% if page.title and page.title != '' %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="{{ site.author }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+</head>
+<body>
+  <header>
+    <hgroup id="site-title">
+      <h1 >
+        <a class="full" href="{{ site.baseurl }}/">{{ site.title }}</a>
+        <a class="hidden-print short" href="{{ site.baseurl }}/">{{ site.short_title }}</a>
+      </h1>
+      {% if site.description %}
+        <h2 id="site-description">{{ site.description }}</h2>
+      {% endif %}
+    </hgroup>
+  </header>
+
+  <nav id="navbar">
+    {% include navbar.html %}
+  </nav>
+
+  <div class="container-fluid">
+    <div class="row-fluid">
+
+ <!--     <aside id="sidebar" class="col-xs-8 col-sm-5 col-md-4 col-lg-3 pull-right">
+        {% include asides/deadlines.html %}
+      </aside><!--/span-->
+
+      <div id="main" class="col-xs-12 col-sm-7 col-md-8 col-lg-9">
+        {{ content }}
+      </div>
+
+      <aside id="sidebar" class="col-xs-8 col-sm-5 col-md-4 col-lg-3">
+        {% include asides.html %}
+      </aside><!--/span-->
+
+    </div><!--/row-->
+  </div> <!-- /container -->
+
+  <hr>
+
+  <footer id="footer">
+    <p>Copyright &copy; {{ site.time | date: "%Y" }}, {{ site.author }}</p>
+  </footer>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+  <script>
+   (function(win, doc, script) {
+       var js,
+	   fjs = doc.getElementsByTagName(script)[0],
+	   add = function(url, id) {
+	       if (doc.getElementById(id)) {return;}
+	       js = doc.createElement(script);
+	       js.src = url;
+	       if (id) {js.id = id;}
+	       fjs.parentNode.insertBefore(js, fjs);
+	   };
+{% if site.google_analytics %}
+       // Google Analytics
+       win._gaq=[["_setAccount",'{{ site.google_analytics.account }}'],["_trackPageview"]];
+       add(('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js', 'ga');
+{% endif %}{% if site.google_plus_one %}
+       // Google+ button
+       win.___gcfg={lang:"{{ site.lang }}"};
+       add('https://apis.google.com/js/plusone.js');
+{% endif %}{% if site.facebook.xfbml %}
+       // Facebook SDK
+       add('//connect.facebook.net/' + '{{ site.facebook.locale }}' + '/all.js#xfbml=1', 'facebook-jssdk');
+{% endif %}{% if site.twitter %}
+       // Twitter SDK
+       add('//platform.twitter.com/widgets.js', 'twitter-wjs');
+{% endif %}
+   }(window, document, 'script'));
+
+  {% if site.asides.github and site.github  %}{% include js/github.js  %}{% endif %}
+
+$(function () {
+    $('.carousel').carousel();
+});
+  </script>
+</body>
+</html>

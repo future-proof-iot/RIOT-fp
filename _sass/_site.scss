@@ -1,0 +1,141 @@
+header h1, header h2 {
+    margin: 5px 200px 5px 10px;
+}
+
+#site-title {
+//    background-image: url("images/FU-Berlin-logo.png"), url("images/RIOT-logo.png"), url("images/Inria-Logo.png");
+//    background-repeat: no-repeat, no-repeat, no-repeat;
+//    background-position: right top, right 315px top, right 415px top;;
+    background-image: url("images/Inria-Logo.png");
+    background-repeat: no-repeat;
+    background-position: right 30px top;;
+}
+
+// asides: sidebar
+#sidebar h3 {
+    font-size: 125%;
+    line-height: 1.0em;
+    margin-top: 0 !important;
+    margin-bottom: 0.5em;
+}
+#sidebar p {
+    margin: 0 !important;
+}
+#sidebar ul {
+    padding: 0 !important;
+}
+#sidebar li.divider {
+    margin: 0.5em 1px;
+}
+
+/* asides/search.html */
+#sidebar-search .btn {
+    line-height: 20px;
+    border-radius: 0 3px 3px 0;
+    position: relative;
+    z-index: 2;
+}
+#sidebar-search input,
+#sidebar-search input:focus {
+    padding-right: 3.5em;
+    position: relative;
+    z-index: 1;
+}
+.lt-ie9 #sidebar-search input {
+    min-height: 20px;
+}
+
+/* asides/archive_tabs.html */
+#sidebar-archives .nav-tabs a {
+    outline: none;
+}
+
+/* asides/recent_post.html */
+#sidebar-recent-posts .disqus-comment_count {
+    font-size: 85%;
+}
+
+/* asides/recent_post.html, asides/tweets.html */
+#sidebar-tweets p,
+#sidebar-recent-posts p {
+    margin: 0.25em 0;
+}
+
+/* asides/tweets.html */
+#tweets {
+    margin-bottom: 1em;
+}
+#tweets li a:last-child:hover {
+    text-decoration: none;
+}
+#tweets li a:last-child span {
+    font-size: 75%;
+}
+
+/* post/post_meta.html */
+#post-meta ul,
+#post-meta li {
+    margin: 0;
+    display: inline;
+    list-style: none outside none;
+}
+#post-meta li {
+    margin-right: 0.5em;
+}
+#post-meta .mini-icon {
+    margin-left: 9px;
+    display: block;
+}
+
+@media (max-width: $responsive-bp) {
+    #post-meta .meta {
+	display: none;
+    }
+}
+
+.highlight {
+    border-radius: 4px;
+}
+.highlight pre {
+    background-color: inherit !important;
+}
+
+@media print {
+    body {
+        font-size: 12px;
+    }
+
+    .h6 .small {
+        font-size: 75%;
+    }
+    h1,
+    .h1 {
+        font-size: 200%;
+    }
+    h2,
+    .h2 {
+        font-size: 180%;
+    }
+    h3,
+    .h3 {
+        font-size: 150%;
+    }
+    h4,
+    .h4 {
+        font-size: 120%;
+    }
+    h5,
+    .h5 {
+        font-size: 100%;
+    }
+    h6,
+    .h6 {
+        font-size: 80%;
+    }
+    blockquote, pre {
+        font-size: 100%;
+    }
+    legend {
+        font-size: 200%;
+    }
+}

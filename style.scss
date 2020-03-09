@@ -1,0 +1,18 @@
+---
+---
+
+@charset "utf-8";
+
+// Variables to modify font folders
+$icon-font-path:      "../fonts/bootstrap";
+$fa-font-path:        "../fonts/font-awesome";
+
+@import "variables";
+
+@import "bootstrap/bootstrap";
+@import "bootswatch";
+
+@import "font-awesome/font-awesome";
+
+$responsive-bp: "{{ site.responsive_bp | minus:1 }}px";
+@import "site";
