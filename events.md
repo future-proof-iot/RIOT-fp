@@ -1,5 +1,8 @@
 ## Activities & Events
 
+### 09.03.2020: New IETF draft standard specification for secure IoT software updates
+We have published a new version of the  IETF draft specification for the [SUIT manifest](https://tools.ietf.org/html/draft-ietf-suit-manifest-04) which secures IoT software updates metadata, end-to-end while in transit from the authorized software OEM to the IoT device, in a low-power manner.
+
 ### 28.02.2020: Demo of early RIOT-fp prototype at European Commission (Brussels)
 
 At H2020 SPARTA project review at Brussels European Commission, a [preliminary prototype demo of RIOT-fp](https://future-proof-iot.github.io/RIOT-fp/files/(2020-02)-SPARTA-RIOT-fp-demo.pdf) was presented, demonstrating secure low-power IoT firmware update on an indoor air quality monitor.
