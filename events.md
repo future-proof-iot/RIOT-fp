@@ -1,10 +1,22 @@
 ## Activities & Events
 
+### 11.09.2020: Tutorial at IEEE Euro S&P
+We have conducted online the [IEEE Security & Privacy tutorial on Microcontroller-based IoT Security](https://future-proof-iot.github.io/Tutorial/) based on the RIOT-fp prototype software platform, and leveraging our open access testbed FIT IoT-lab for remote participants.
+
+### 24.07.2020: New RIOT Release 2020.07 featuring OpenWSN network stack support
+The latest RIOT release (code named 2020.07) is released.  New network protocols were ported for RIOT such as MQTT and the lookup clientcomponent for CoRE RD. The OpenWSN network stack with 6TiSCH support is now also supported in RIOT. 546 pull requests, composed of 10452 commits, have been merged since the
+last release 3 months ago, and 84 issues have been solved. 64 people contributed with code in 106 days!
+
+### 27.04.2020: Information Flow Control with LIO* 
+In the context of WP3 on composite formal verification, we have published a new [report](https://arxiv.org/pdf/2004.12885.pdf) on low-level information flow control with F*.
+
+### 04.06.2020: MooC on IoT and Security based on RIOT
+We have co-authored and released a new [massive online course on low-power IoT](https://www.fun-mooc.fr/courses/course-v1:inria+41020+session01/about), featuring a large part with hands-on activities using RIOT. Of course, there was a module on IoT security featuring SUIT-compliant IoT software udates! There were 6,757 participants from 110 countries for this first session this semester. Next session in Feb. 2021. Be there!
+
 ### 09.03.2020: New IETF draft standard specification for secure IoT software updates
-We have published a new version of the  IETF draft specification for the [SUIT manifest](https://tools.ietf.org/html/draft-ietf-suit-manifest-04) which secures IoT software updates metadata, end-to-end while in transit from the authorized software OEM to the IoT device, in a low-power manner.
+We have published a new version of the IETF draft specification for the [SUIT manifest](https://tools.ietf.org/html/draft-ietf-suit-manifest-04) which secures IoT software updates metadata, end-to-end while in transit from the authorized software OEM to the IoT device, in a low-power manner.
 
 ### 28.02.2020: Demo of early RIOT-fp prototype at European Commission (Brussels)
-
 At H2020 SPARTA project review at Brussels European Commission, a [preliminary prototype demo of RIOT-fp](https://future-proof-iot.github.io/RIOT-fp/files/(2020-02)-SPARTA-RIOT-fp-demo.pdf) was presented, demonstrating secure low-power IoT firmware update on an indoor air quality monitor.
 
 ### 19.02.2020: Draft Requirements Document for the LAKE protocol
