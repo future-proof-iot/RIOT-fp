@@ -18,7 +18,7 @@ The latest [RIOT release 2020.07](https://github.com/RIOT-OS/RIOT/releases/tag/2
 ### 15.07.2020: New SUIT draft Specification Released
 We have published a new version (-09) of the IETF draft specification for the [SUIT manifest](https://tools.ietf.org/html/draft-ietf-suit-manifest-09) which secures IoT software updates metadata by re-using CBOR and COSE, end-to-end while in transit from the authorized software OEM to the IoT device, in a low-power manner.
 
-### 28.06.2020 Faster isogeny-based cryptosystems
+### 28.06.2020 Faster Isogeny-based Cryptosystems
 We have a new publication on isogeny-based cryptosystems, which offer particularly small key-sizes. In particular, we focused on CSIDH, which appeared after the initial deadline for the NIST process.  While CSIDH has some important potential applications, it currently imposes an inconvenient computational cost, and adapting it to IoT devices is a significant challenge.  We have made an important algorithmic advance: in our [publication](https://arxiv.org/abs/2003.10118) at ANTS-XIV, we give an algorithm which computes large-degree isogenies in square-root (rather than linear) time. This kindles hope for producing efficient, side-channel-aware CSIDH implementations for microcontrollers!
 
 ### 04.06.2020: MooC on IoT and Security with Microcontrollers
