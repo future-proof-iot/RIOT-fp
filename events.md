@@ -1,6 +1,6 @@
 ## Activities & Related News
 
-### 28.10.2020: Formal verification of Elliptic Curve Cryptography at ECC 2020
+### 28.10.2020: Formal Verification of Elliptic Curve Cryptography (at ECC 2020)
 We participate in [ECC 2020](https://eccworkshop.org/2020/): several RIOT-fp contributors take part in a panel dedicated to formal verification of Elliptic Curve Cryptography. Tune in!
 
 ### 15.09.2020: RIOT Summit 2020
