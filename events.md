@@ -1,5 +1,8 @@
 ## Activities & Related News
 
+### 28.10.2020: Formal verification of Elliptic Curve Cryptography at ECC 2020
+We participate in [ECC 2020](https://eccworkshop.org/2020/): several RIOT-fp contributors take part in a panel dedicated to formal verification of Elliptic Curve Cryptography. Tune in!
+
 ### 15.09.2020: RIOT Summit 2020
 The yearly meetup for the RIOT community took place online this year. Featuring 170 registered participants from 4 continents, a keynote from Andrew S. Tanenbaum, and a variety of talks covering virtually all aspects of IoT, including security. In retrospect: you can check out the [slides](https://summit.riot-os.org/2020) of plenary talks & breakout sessions, as well as their [video recordings](https://www.youtube.com/watch?v=t2nhqepSxb4&list=PLDXXQJiSjPKHpZpiPee7OYaJpUmmfV6Nh) on Youtube.
 
@@ -9,11 +12,14 @@ We have conducted online the [IEEE Security & Privacy tutorial on Microcontrolle
 ### 02.08.2020: EDHOC Draft Specification
 Following the formation of the LAKE working group at IETF, a preliminary [draft specification](https://tools.ietf.org/html/draft-ietf-lake-edhoc-01) is out fro Ephemeral Diffie-Hellman Over COSE (EDHOC). By reusing COSE for cryptography, CBOR for encoding, and CoAP for transport, the aim is to keep additional code footprint very low -- a goal we certainly value in RIOT-fp, in the context of which work is about to start implementating EDHOC.
 
-### 09.03.2020: New SUIT draft Specification Released
-We have published a new version (-09) of the IETF draft specification for the [SUIT manifest](https://tools.ietf.org/html/draft-ietf-suit-manifest-09) which secures IoT software updates metadata by re-using CBOR and COSE, end-to-end while in transit from the authorized software OEM to the IoT device, in a low-power manner.
-
 ### 24.07.2020: OpenWSN Network Stack Support in New RIOT Release 
 The latest [RIOT release 2020.07](https://github.com/RIOT-OS/RIOT/releases/tag/2020.07) has been released. New network protocols were ported for RIOT such as MQTT and the lookup clientcomponent for CoRE RD. The OpenWSN network stack with 6TiSCH support is now also supported in RIOT. 546 pull requests, composed of 10452 commits, have been merged since the last release 3 months ago, and 84 issues have been solved. 64 people contributed with code in 106 days!
+
+### 15.07.2020: New SUIT draft Specification Released
+We have published a new version (-09) of the IETF draft specification for the [SUIT manifest](https://tools.ietf.org/html/draft-ietf-suit-manifest-09) which secures IoT software updates metadata by re-using CBOR and COSE, end-to-end while in transit from the authorized software OEM to the IoT device, in a low-power manner.
+
+### 28.06.2020 Faster isogeny-based cryptosystems
+We have a new publication on isogeny-based cryptosystems, which offer particularly small key-sizes. In particular, we focused on CSIDH, which appeared after the initial deadline for the NIST process.  While CSIDH has some important potential applications, it currently imposes an inconvenient computational cost, and adapting it to IoT devices is a significant challenge.  We have made an important algorithmic advance: in our [publication](https://arxiv.org/abs/2003.10118) at ANTS-XIV, we give an algorithm which computes large-degree isogenies in square-root (rather than linear) time. This kindles hope for producing efficient, side-channel-aware CSIDH implementations for microcontrollers!
 
 ### 04.06.2020: MooC on IoT and Security with Microcontrollers
 The first season of the MooC is a wrap! We have co-authored and released a new [massive online course on low-power IoT](https://www.fun-mooc.fr/courses/course-v1:inria+41020+session01/about), featuring a large part with hands-on activities using RIOT. Of course, there was a module dedicated to IoT security featuring SUIT-compliant IoT software udates! There were 6,757 participants from 110 countries for this first session this semester. Next session in Feb. 2021. Be there!
@@ -32,8 +38,6 @@ The IETF has issued its last call for our draft [requirements for the LAKE proto
 
 ### 06.02.2020: Preliminary Design of a Zero-touch Enrollment Protocol
 We have published a [preliminary design for a zero-touch enrollment protocol](https://tools.ietf.org/html/draft-selander-ace-ake-authz-00) based on LAKE.
-
-
 
 ### 15.11.2019: New RIOT Release with Initial SUIT Support
 The latest release ([Release-2019.10](https://github.com/RIOT-OS/RIOT/releases/tag/2019.10)) of RIOT is now available. This release brings a number of improvements and additional features, including initial support for SUIT-compliant secure IoT firmware updates, over the network. Check out this [example](https://github.com/RIOT-OS/RIOT/tree/master/examples/suit_update) which you could reproduce on your favorite low-power hardware!
