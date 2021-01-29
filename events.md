@@ -1,5 +1,20 @@
 ## Activities & Related News
 
+
+### 18.01.2021: Towards a Formally Verified RIOT Bootloader Using Rust and Hacspec
+
+We are developing further [Hacspec](https://github.com/hacspec/hacspec) combined with a rewrite of the [RIOT bootloader in Rust](https://github.com/hacspec/hacspec/blob/riot/examples/hacspec-riot-bootloader/src/lib.rs) towards producing a formally verified bootloader for RIOT applicable on low-power microcontrollers.
+Potential perspectives with this workflow include formally verifying other modules in RIOT core, provided by [RIOT-rs](https://github.com/future-proof-iot/RIOT-rs), an experimental drop-in replacement core for RIOT, based on the Rust embedded ecosystem.
+
+
+### 03.12.2020: Minimal Virtual Machines for Low-power Microcontrollers with rBPF
+
+WVirtual machines (VM) are widely used to host and isolate software modules. However, extremely small memory and low-energy budgets have so far prevented wide use of VMs on typical microcontroller-based IoT devices. We just published a paper showing that a register-based VM using extended Berkeley Packet Filters (eBPF) is a promising approach to host small software modules, isolated from OS software, and updatable on-demand, over low-power networks. Execution time and memory overhead with our [prototype design and implementation rBPF](https://arxiv.org/pdf/2011.12047.pdf) seem quite tolerable for microcontroller-based IoT devices.
+
+
+### 19.11.2020: First EDHOC Implementations and First Interop Tests!
+We published the first [EDHOC implementation](https://github.com/TimothyClaeys/py-edhoc)! This implementation is in Python, but we are already hard at work on a separate [EDHOC implementation in C](https://github.com/TimothyClaeys/EDHOC-C). We next plan to publish EDHOC-C integration in RIOT and OpenWSN, and to participate in interoperability fests in the context of IETF (LAKE working group).
+
 ### 28.10.2020: Formal Verification of Elliptic Curve Cryptography (at ECC 2020)
 We participate in [ECC 2020](https://eccworkshop.org/2020/): several RIOT-fp contributors take part in a panel dedicated to formal verification of Elliptic Curve Cryptography. Tune in!
 
