@@ -34,6 +34,8 @@ navbar_list:
   link: about
 - name: Activity
   link: events
+- name: Publications
+  link: publications
 - name: Partners
   link: partners
 - name: Contact

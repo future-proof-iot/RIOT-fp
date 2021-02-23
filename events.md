@@ -67,7 +67,7 @@ We have published a paper investigating the [applicability of refinement type th
 
 A new working group called [LAKE](https://datatracker.ietf.org/wg/lake/about/) (Lightweight Authenticated Key Exchange) is being chartered in the IETF aiming to design a [key exchange](https://tools.ietf.org/html/draft-selander-lake-reqs) protocol for OSCORE. OSCORE is an application-layer protection mechanism for CoAP used in 6TiSCH networks. The LAKE outcome is important for RIOT-fp as one of our objectives is to design a zero-touch secure joining protocol for Internet of Things networks, with dependency on both OSCORE and LAKE.
 
-### 07.06.2019: New Sublication on secure IoT Firmware Update
+### 07.06.2019: New Publication on secure IoT Firmware Update
 
 Together with ARM, we published a [new article](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8725488) in IEEE Access, which describes the guts of our preliminary prototype for secure firmware update on microcontroller-based IoT devices, using RIOT and the upcoming SUIT specification from IETF.
 
