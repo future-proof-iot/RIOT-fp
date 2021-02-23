@@ -17,8 +17,8 @@ baseurl: https://future-proof-iot.github.io/RIOT-fp/
 #  date: June 19, 2020
 
 # Configuration for site
-title: Future-proof IoT with RIOT-fp
-description: A cybersecurity-oriented distribution of RIOT
+title: RIOT-fp 
+description: A cybersecurity-focused distribution of RIOT
 author: Inria
 email:
 logo: images/RIOT-logo.png
