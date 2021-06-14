@@ -1,5 +1,14 @@
 ## Publications
 
+- G. Banegas, K. Zandberg, A. Herrmann, E. Baccelli, B. Smith. Quantum-Resistant Security for Software Updateson Low-power Networked Embedded Devices. IACR, June 2021. [PDF](https://eprint.iacr.org/2021/781.pdf)
+
+- G. Banegas, DJ. Bernstein, F. Campos, T. Chou,T. Lange, M. Meyer, B. Smith, J. Sotáková. CTIDH: faster constant-time CSIDH. Preprint, May 2021. [PDF](https://ctidh.isogeny.org/ctidh-20210526.pdf)
+
+- D. Merigoux, F. Kiefer, K. Bhargavan. Hacspec: succinct, executable, verifiable specificationsfor high-assurance cryptography embedded in Rust. Preprint Inria HAL, March 2021. [PDF](https://hal.inria.fr/hal-03176482/document)
+
+- T. Claeys, M. Vucinic, T. Watteyne, F. Rousseau, B. Tourancheay. Performance of the Transport Layer Security Handshake Over 6TiSCH. MDPI Sensors, March 2021. [PDF](https://www.mdpi.com/1424-8220/21/6/2192/pdf)
+
+- B. Moran, H. Tschofenig, H. Birkholz, K. Zandberg. A Concise Binary Object Representation (CBOR)-based Serialization Format    for the Software Updates for Internet of Things (SUIT) Manifest. IETF Internet Draft *draft-ietf-suit-manifest-12*. [PDF](https://tools.ietf.org/pdf/draft-ietf-suit-manifest-12.pdf)
 
 - DJ Bernstein, L. De Feo, A. Leroux, B. Smith. Faster computation of isogenies of large prime degree. In Proceedings of ANTS XIV, pp.39-55. Dec. 2020. [PDF](https://msp.org/obs/2020/4-1/obs-v4-n1-p04-s.pdf)
 

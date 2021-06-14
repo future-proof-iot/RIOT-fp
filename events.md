@@ -13,7 +13,7 @@
 
 ### Transport-Layer Security over 6TiSCH Low-power Link-layer
 *21.03.2021.* We published a new study on the performance of the Transport Layer Security handshakes
-over 6TiSCH. Check out the details in this [article](file:///home/emmanuel/Downloads/sensors-21-02192.pdf).
+over 6TiSCH. Check out the details in this [article](https://www.mdpi.com/1424-8220/21/6/2192/pdf).
 
 ### New SUIT Manifest Draft Specification
 *22.02.2021.* We published a new version of the [draft SUIT manifest specification](https://datatracker.ietf.org/doc/html/draft-ietf-suit-manifest-12).
