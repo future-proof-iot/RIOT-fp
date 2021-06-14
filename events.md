@@ -1,5 +1,19 @@
 ## Activities & Related News
 
+### 14.06.2021: New Preprint on Post-Quantum Security for Low-power IoT Software Updates
+
+We published a [preprint](https://eprint.iacr.org/2021/781) analyzing key aspects of quantum-resistance for security primitives enabling software updates on low-power IoT devices. In  this study, taking SUIT and its open source implementation in RIOT as case study, we experimentally evaluate and compare post-quantum schemes that are currently available for digital signature schemes (Lattice-based with Falcon, or Dilithium, and hash-based with LMS), against typical pre-quantum options (ed25519, P-256) and we cover also post-quantum considerations concerning hash functions (SHA-2 and SHA-3) use as specified within SUIT.
+
+### 26.05.2021: Speed Record for Isogeny-based Cryptosystems
+We extended our work on isogeny-based cryptosystems. We established a new speed-record-breaking constant-time implementation of the CSIDH algorithm for non-interactive key exchange. Check out the details of these results, published in this [preprint](https://ctidh.isogeny.org/ctidh-20210526.pdf).
+
+### 27.04.2021: EDHOC Embedded C Implementation OS Integration
+
+Our open source implementation of [EDHOC](https://tools.ietf.org/html/draft-ietf-lake-edhoc-07) has been updated, and integrated upstream in the operating system [RIOT](https://github.com/RIOT-OS/RIOT/tree/master/pkg/edhoc-c).
+
+### 21.03.2021: Transport-Layer Security over 6TiSCH Low-power Link-layer
+We published a new study on the performance of the Transport Layer Security handshakes
+over 6TiSCH. Check out the details in this [article](file:///home/emmanuel/Downloads/sensors-21-02192.pdf).
 
 ### 18.01.2021: Towards a Formally Verified RIOT Bootloader Using Rust and Hacspec
 
