@@ -36,6 +36,8 @@ navbar_list:
   link: events
 - name: Publications
   link: publications
+- name: Software
+  link: software
 - name: Partners
   link: partners
 - name: Contact
