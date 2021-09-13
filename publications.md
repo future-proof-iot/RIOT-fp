@@ -26,7 +26,11 @@
 
 - G. Restuccia, H. Tschofenig, E. Baccelli. Low-Power IoT Communication Security: On the Performance of DTLS and TLS 1.3. In Proc. of 9th IFIP/IEEE PEMWN, Dec. 2020. [PDF](https://arxiv.org/pdf/2011.12035.pdf)
 
+- J. Protzenko, B. Parno, A. Fromherz, C. Hawblitzel, M. Polubelova, K. Bhargavan et al. Evercrypt: A fast, verified, cross-platform cryptographic provider. In Proc. ACM SIGSAC Conference on Computer and Communications Security. Oct. 2020. [PDF](http://www.normalesup.org/~ramanana/research/everest/evercrypt/paper.pdf)
+
 - M. Vucinic, G. Selander, J. Mattsson, D. Garcia. Requirements for a Lightweight AKE for OSCORE, IETF Internet Draft draft-ietf-lake-reqs-04, June 2020. [PDF](https://tools.ietf.org/pdf/draft-ietf-lake-reqs-04.txt)
+
+- M. Polubelova, K. Bhargavan et al. HACLxN: Verified Generic SIMD Crypto. In Proc. IEEE Symposium on Security and Privacy (S&P). May 2020. [PDF](https://dl.acm.org/doi/pdf/10.1145/3372297.3423352)
 
 - C. Costello, B. Smith. The supersingular isogeny problem in genus 2 and beyond. In Proceedings of the International Conference on Post-Quantum Cryptography, pp. 151-168, Springer, Apr. 2020. [PDF](https://arxiv.org/pdf/1912.00701)
 
