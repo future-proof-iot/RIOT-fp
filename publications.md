@@ -1,6 +1,6 @@
 ## Publications
 
-- S. Yuan, JP Talpin. Verified functional programming of an IoT operating system's bootloader. In Proc. ACM MEMOCODE 2021, Nov. 2021. [PDF](https://hal.inria.fr/hal-03343002/document)
+- S. Yuan, JP Talpin. Verified Functional Programming of an IoT Operating System's Bootloader. In Proc. ACM MEMOCODE 2021, Nov. 2021. [PDF](https://hal.inria.fr/hal-03343002/document)
 
 - L. Franceschino, JP Talpin, D. Pichardie. Verified Functional Programming of an
 Abstract Interpreter. In Proc. Static Analysis Symposium, Oct. 2021. [PDF](https://hal.inria.fr/hal-03342997/document)
@@ -49,7 +49,7 @@ Abstract Interpreter. In Proc. Static Analysis Symposium, Oct. 2021. [PDF](https
 
 - D. Cervantes-Vázquez, M. Chenu, J.-J. Chi-Domínguez, L. De Feo, F. Rodríguez-Henríquez, B. Smith. Stronger and Faster Side-Channel Protectionsfor CSIDH. In LATINCRYPT, Oct. 2019. [PDF](https://arxiv.org/pdf/1907.08704.pdf)
 
-- K. Zandberg, K. Schleiser, F. Acosta, H. Tschofenig, E. Baccelli. Secure firmware updates for constrained iot devices using open standards: A reality check. In IEEE Access, June 2019. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8725488)
+- K. Zandberg, K. Schleiser, F. Acosta, H. Tschofenig, E. Baccelli. Secure Firmware Updates for Constrained IoT Devices Using Open Standards: A Reality Check. In IEEE Access, June 2019. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8725488)
 
 - JP Talpin, JJ Marty, S. Narayan, D. Stefan and R. Gupta. Towards verified programming of embedded devices. In IEEE DATE, March 2019. [PDF](https://hal.inria.fr/hal-02193635/document)
 
