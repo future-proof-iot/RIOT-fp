@@ -20,3 +20,4 @@ In the context of their work within RIOT-fp, project members develop, upstream a
 
 - [riotboot-rs](https://github.com/future-proof-iot/riotboot-rs) -- An implementation of RIOT's bootloader in Rust and Hacspec. 
 
+- [nanoCBOR](https://github.com/bergzand/NanoCBOR) -- A tiny CBOR library aimed at embedded and heavily constrained devices.
