@@ -1,5 +1,7 @@
 ## Publications
 
+- M. Vučinić, G. Selander, J. Mattsson. Lightweight Authenticated Key Exchange with EDHOC: Design Overview. Research Report, Dec. 2021 [PDF](https://hal.inria.fr/hal-03434293/document)
+
 - S. Yuan, JP Talpin. Verified Functional Programming of an IoT Operating System's Bootloader. In Proc. ACM MEMOCODE 2021, Nov. 2021. [PDF](https://hal.inria.fr/hal-03343002/document)
 
 - L. Franceschino, JP Talpin, D. Pichardie. Verified Functional Programming of an
