@@ -1,13 +1,13 @@
 ## Publications
 
-- M. Vučinić, G. Selander, J. Mattsson. Lightweight Authenticated Key Exchange with EDHOC: Design Overview. Research Report, Dec. 2021 [PDF](https://hal.inria.fr/hal-03434293/document)
+- M. Vučinić, G. Selander, J. Mattsson. Lightweight Authenticated Key Exchange with EDHOC. IEEE Computer, Jan. 2022 [PDF](https://hal.inria.fr/hal-03434293v3/document)
 
 - S. Yuan, JP Talpin. Verified Functional Programming of an IoT Operating System's Bootloader. In Proc. ACM MEMOCODE 2021, Nov. 2021. [PDF](https://hal.inria.fr/hal-03343002/document)
 
+- K. Zandberg, E. Baccelli. Femto-Containers: DevOps on Microcontrollers with Lightweight Virtualization & Isolation for IoT Software Modules. Preprint, Nov. 2021. [PDF](https://arxiv.org/pdf/2106.12553.pdf)
+
 - L. Franceschino, JP Talpin, D. Pichardie. Verified Functional Programming of an
 Abstract Interpreter. In Proc. Static Analysis Symposium, Oct. 2021. [PDF](https://hal.inria.fr/hal-03342997/document)
-
-- K. Zandberg, E. Baccelli. Femto-Containers: DevOps on Microcontrollers with Lightweight Virtualization & Isolation for IoT Software Modules. Preprint, June 2021. [PDF](https://arxiv.org/pdf/2106.12553.pdf)
 
 - G. Banegas, K. Zandberg, A. Herrmann, E. Baccelli, B. Smith. Quantum-Resistant Security for Software Updates on Low-power Networked Embedded Devices. IACR ePrint, June 2021. [PDF](https://eprint.iacr.org/2021/781.pdf)
 
