@@ -1,5 +1,8 @@
 ## Publications
 
+- G. Banegas, K. Zandberg, A. Herrmann, E. Baccelli, B. Smith. Quantum-Resistant Security for Software Updates on Low-power Networked Embedded Devices. To appear in the 20th International Conference on
+Applied Cryptography and Network Security (ACNS 2022), June 2022. [PDF](https://eprint.iacr.org/2021/781.pdf)
+
 - M. Vučinić, G. Selander, J. Mattsson. Lightweight Authenticated Key Exchange with EDHOC. IEEE Computer, Jan. 2022 [PDF](https://hal.inria.fr/hal-03434293v3/document)
 
 - S. Yuan, JP Talpin. Verified Functional Programming of an IoT Operating System's Bootloader. In Proc. ACM MEMOCODE 2021, Nov. 2021. [PDF](https://hal.inria.fr/hal-03343002/document)
@@ -8,8 +11,6 @@
 
 - L. Franceschino, JP Talpin, D. Pichardie. Verified Functional Programming of an
 Abstract Interpreter. In Proc. Static Analysis Symposium, Oct. 2021. [PDF](https://hal.inria.fr/hal-03342997/document)
-
-- G. Banegas, K. Zandberg, A. Herrmann, E. Baccelli, B. Smith. Quantum-Resistant Security for Software Updates on Low-power Networked Embedded Devices. IACR ePrint, June 2021. [PDF](https://eprint.iacr.org/2021/781.pdf)
 
 - M. Vucinic, J. Simon, K. Pister, M. Richardson. Constrained Join Protocol (CoJP) for 6TiSCH. IETF RFC 9031, May 2021. [PDF](https://www.rfc-editor.org/rfc/rfc9031.pdf)
 

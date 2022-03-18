@@ -1,8 +1,8 @@
 ## Activities & Related News
 
-### New Preprint on Post-Quantum Security for Low-power IoT Software Updates
+### New Publication on Post-Quantum Security for Low-power IoT Software Updates
 
-*14.06.2021*. We published a [preprint](https://eprint.iacr.org/2021/781) analyzing key aspects of quantum-resistance for security primitives enabling software updates on low-power IoT devices. In  this study, taking SUIT and its open source implementation in RIOT as case study, we experimentally evaluate and compare post-quantum schemes that are currently available for digital signature schemes (Lattice-based with Falcon, or Dilithium, and hash-based with LMS), against typical pre-quantum options (ed25519, P-256) and we cover also post-quantum considerations concerning hash functions (SHA-2 and SHA-3) use as specified within SUIT.
+*18.03.2022*. Our work on analyzing key aspects of quantum-resistance for security primitives enabling software updates on low-power IoT devices has been accepted for publication at ACNS 2022. In  this study, taking SUIT and its open source implementation in RIOT as case study, we experimentally evaluate and compare post-quantum schemes that are currently available for digital signature schemes (Lattice-based with Falcon, or Dilithium, and hash-based with LMS), against typical pre-quantum options (ed25519, P-256) and we cover also post-quantum considerations concerning hash functions (SHA-2 and SHA-3) use as specified within SUIT. [Preprint](https://eprint.iacr.org/2021/781)
 
 ### Speed Record for Isogeny-based Cryptosystems
 *26.05.2021*. We extended our work on isogeny-based cryptosystems. We established a new speed-record-breaking constant-time implementation of the CSIDH algorithm for non-interactive key exchange. Check out the details of these results, published in this [preprint](https://ctidh.isogeny.org/ctidh-20210526.pdf).
