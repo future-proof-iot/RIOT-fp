@@ -1,8 +1,15 @@
 ## Activities & Related News
 
+### New Publication on formally-verified eBPF-based Femto-Container Hosting Engine
+*10.05.2022.* Our work on this topic is to appear in the 34th International Conference on Computer Aided Verification (CAV 2022), August 2022. The paper reports on our proof of fault isolation on an implementation of femto-containers integrated in RIOT and experimentally evaluated on commodity IoT microcontrollers. The preprint will soon be available, stay tuned!
+
+### New SUIT draft Specification Released
+*22.04.2022.* We have published a new version (-17) of the IETF draft specification for the [SUIT manifest](https://datatracker.ietf.org/doc/pdf/draft-ietf-suit-manifest-17) which secures IoT software updates metadata by re-using CBOR and COSE, end-to-end while in transit from the authorized software OEM to the IoT device, in a low-power manner.
+
+
 ### New Publication on Post-Quantum Security for Low-power IoT Software Updates
 
-*18.03.2022*. Our work on analyzing key aspects of quantum-resistance for security primitives enabling software updates on low-power IoT devices has been accepted for publication at ACNS 2022. In  this study, taking SUIT and its open source implementation in RIOT as case study, we experimentally evaluate and compare post-quantum schemes that are currently available for digital signature schemes (Lattice-based with Falcon, or Dilithium, and hash-based with LMS), against typical pre-quantum options (ed25519, P-256) and we cover also post-quantum considerations concerning hash functions (SHA-2 and SHA-3) use as specified within SUIT. [Preprint](https://eprint.iacr.org/2021/781)
+*18.03.2022*. Our work on analyzing key aspects of quantum-resistance for security primitives enabling software updates on low-power IoT devices has been accepted for publication at ACNS 2022. In  this study, taking SUIT and its open source implementation in RIOT as case study, we experimentally evaluate and compare post-quantum schemes that are currently available for digital signature schemes (Lattice-based with Falcon, or Dilithium, and hash-based with LMS), against typical pre-quantum options (ed25519, P-256) and we cover also post-quantum considerations concerning hash functions (SHA-2 and SHA-3) use as specified within SUIT. [Preprint](https://eprint.iacr.org/2021/781.pdf)
 
 ### Speed Record for Isogeny-based Cryptosystems
 *26.05.2021*. We extended our work on isogeny-based cryptosystems. We established a new speed-record-breaking constant-time implementation of the CSIDH algorithm for non-interactive key exchange. Check out the details of these results, published in this [preprint](https://ctidh.isogeny.org/ctidh-20210526.pdf).

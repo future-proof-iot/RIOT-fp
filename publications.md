@@ -1,7 +1,12 @@
 ## Publications
 
+- S. Yuan, F. Besson, JP Talpin, S. Hym, K. Zandberg, E. Baccelli. A Verified eBPF Virtual Machine for Microcontrollers. To appear in the 34th International Conference on Computer Aided Verification (CAV 2022), August 2022.
+
 - G. Banegas, K. Zandberg, A. Herrmann, E. Baccelli, B. Smith. Quantum-Resistant Security for Software Updates on Low-power Networked Embedded Devices. To appear in the 20th International Conference on
 Applied Cryptography and Network Security (ACNS 2022), June 2022. [PDF](https://eprint.iacr.org/2021/781.pdf)
+
+- B. Moran, H. Tschofenig, H. Birkholz, K. Zandberg. A Concise Binary Object Representation (CBOR)-based Serialization Format
+ for the Software Updates for Internet of Things (SUIT) Manifest. IETF working group draft, April 2022. [PDF](https://datatracker.ietf.org/doc/pdf/draft-ietf-suit-manifest-17)
 
 - M. Vučinić, G. Selander, J. Mattsson. Lightweight Authenticated Key Exchange with EDHOC. IEEE Computer, Jan. 2022 [PDF](https://hal.inria.fr/hal-03434293v3/document)
 
