@@ -2,7 +2,7 @@
 
 - K. Zandberg, E. Baccelli, S. Yuan, F. Besson, JP Talpin. Femto-Containers: Lightweight Virtualization and Fault Isolation For Small Software Functions on Low-Power IoT Microcontrollers, in the 23rd ACM International Middleware Conference (MIDDLEWARE'22), to appear, Nov. 2022.
 
-- G. Banegas, V. Gilchrist, B. Smith.  Efficient supersingularity testing over F_p and CSIDH key validation.  To appear in Mathematical Cryptology, 2022.  [[PDF](https://hal.inria.fr/hal-03739021)]
+- G. Banegas, V. Gilchrist, B. Smith.  Efficient supersingularity testing over F_p and CSIDH key validation.  To appear in Mathematical Cryptology, 2022.  [[PDF](https://hal.inria.fr/hal-03739021)]]
 
 - S. Yuan, F. Besson, JP Talpin, S. Hym, K. Zandberg, E. Baccelli. A Verified eBPF Virtual Machine for Microcontrollers. In the 34th International Conference on Computer Aided Verification (CAV'22), August 2022. [PDF](https://www.irisa.fr/prive/talpin/papers/cav22.pdf)
 
