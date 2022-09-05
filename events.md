@@ -1,7 +1,7 @@
 ## Activities & Related News
 
 ### New Publication on formally-verified eBPF-based Femto-Container Hosting Engine
-*10.05.2022.* Our work on this topic is to appear in the 34th International Conference on Computer Aided Verification (CAV 2022), August 2022. The paper reports on our proof of fault isolation on an implementation of femto-containers integrated in RIOT and experimentally evaluated on commodity IoT microcontrollers. The preprint will soon be available, stay tuned!
+*22.08.2022.* We published and presented our work on this topic in the 34th International Conference on Computer Aided Verification (CAV 2022). The paper reports on our proof of fault isolation on an implementation of femto-containers integrated in RIOT and experimentally evaluated on commodity IoT microcontrollers. Check out the [preprint](https://www.irisa.fr/prive/talpin/papers/cav22.pdf)!
 
 ### New SUIT draft Specification Released
 *22.04.2022.* We have published a new version (-17) of the IETF draft specification for the [SUIT manifest](https://datatracker.ietf.org/doc/pdf/draft-ietf-suit-manifest-17) which secures IoT software updates metadata by re-using CBOR and COSE, end-to-end while in transit from the authorized software OEM to the IoT device, in a low-power manner.
