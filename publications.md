@@ -1,8 +1,12 @@
 ## Publications
 
+- FX Molina, E. Baccelli, K. Zandberg, D. Donsez, O. Alphand. Cubedate: Securing Software Updates in Orbit for Low-Power Payloads Hosted on CubeSats, in the 12th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN), Sept. 2023. [[PDF](https://arxiv.org/pdf/2306.14574.pdf)]
+
+- FX Molina, V. Roca, R. Dagher, E. Baccelli, N. Mitton, A. Boutet, M. Cunche. PEPPER: Precise Privacy-Preserving Contact Tracing with Cheap, BLE/UWB Capable Tokens, in the 24th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), June 2023. [[PDF](https://inria.hal.science/hal-04064415/file/pepper_ct_on_token_wowmom2023_final.pdf)] 
+
 - K. Zandberg, E. Baccelli, S. Yuan, F. Besson, JP Talpin. Femto-Containers: Lightweight Virtualization and Fault Isolation For Small Software Functions on Low-Power IoT Microcontrollers, in the 23rd ACM International Middleware Conference (ACM MIDDLEWARE'22), Nov. 2022. [[PDF](https://arxiv.org/pdf/2210.03432.pdf)]
 
-- G. Banegas, V. Gilchrist, B. Smith.  Efficient supersingularity testing over F_p and CSIDH key validation.  To appear in Mathematical Cryptology, 2022.  [[PDF](https://hal.inria.fr/hal-03739021)]
+- G. Banegas, V. Gilchrist, B. Smith.  Efficient supersingularity testing over F_p and CSIDH key validation.  In Mathematical Cryptology, 2022.  [[PDF](https://hal.inria.fr/hal-03739021)]
 
 - S. Yuan, F. Besson, JP Talpin, S. Hym, K. Zandberg, E. Baccelli. A Verified eBPF Virtual Machine for Microcontrollers. In the 34th International Conference on Computer Aided Verification (CAV'22), August 2022. [PDF](https://www.irisa.fr/prive/talpin/papers/cav22.pdf)
 
