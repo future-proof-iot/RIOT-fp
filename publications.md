@@ -1,6 +1,6 @@
 ## Publications
 
-- FX Molina, E. Baccelli, K. Zandberg, D. Donsez, O. Alphand. Cubedate: Securing Software Updates in Orbit for Low-Power Payloads Hosted on CubeSats, in the 12th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN), Sept. 2023. [[PDF](https://arxiv.org/pdf/2306.14574.pdf)]
+- FX Molina, E. Baccelli, K. Zandberg, D. Donsez, O. Alphand. Cubedate: Securing Software Updates in Orbit for Low-Power Payloads Hosted on CubeSats, in the 12th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN), Sept. 2023. [[PDF](https://hal.science/hal-03893509/file/1570858013%20paper%20%281%29.pdf)]
 
 - FX Molina, V. Roca, R. Dagher, E. Baccelli, N. Mitton, A. Boutet, M. Cunche. PEPPER: Precise Privacy-Preserving Contact Tracing with Cheap, BLE/UWB Capable Tokens, in the 24th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), June 2023. [[PDF](https://inria.hal.science/hal-04064415/file/pepper_ct_on_token_wowmom2023_final.pdf)] 
 
