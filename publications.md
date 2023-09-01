@@ -4,6 +4,10 @@
 
 - FX Molina, V. Roca, R. Dagher, E. Baccelli, N. Mitton, A. Boutet, M. Cunche. PEPPER: Precise Privacy-Preserving Contact Tracing with Cheap, BLE/UWB Capable Tokens, in the 24th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), June 2023. [[PDF](https://inria.hal.science/hal-04064415/file/pepper_ct_on_token_wowmom2023_final.pdf)] 
 
+- G. Banegas, K. Carrier, A. Chailloux, A. Couvreur, T. Debris-Alazard, P. Gaborit, P. Karpman, J. Loyer, R. Niederhagen, N. Sendrier, B. Smith, JP Tillich, Wave Signatures, NIST Post-Quantum Cryptography Competition: Round 1 Submission, June 2023. [[PDF](https://csrc.nist.gov/csrc/media/Projects/pqc-dig-sig/documents/round-1/spec-files/wave-spec-web.pdf)]
+
+- G. Banegas, V. Gilchrist, A. Le Dévéhat, B. Smith. Fast and Frobenius: Rational Isogeny Evaluation over Finite Fields. arXiv preprint, June 2023. [[PDF](https://arxiv.org/pdf/2306.16072.pdf)]
+
 - K. Zandberg, E. Baccelli, S. Yuan, F. Besson, JP Talpin. Femto-Containers: Lightweight Virtualization and Fault Isolation For Small Software Functions on Low-Power IoT Microcontrollers, in the 23rd ACM International Middleware Conference (ACM MIDDLEWARE'22), Nov. 2022. [[PDF](https://arxiv.org/pdf/2210.03432.pdf)]
 
 - G. Banegas, V. Gilchrist, B. Smith.  Efficient supersingularity testing over F_p and CSIDH key validation.  In Mathematical Cryptology, 2022.  [[PDF](https://hal.inria.fr/hal-03739021)]
