@@ -19,4 +19,4 @@ The RIOT-fp project is driven by Inria. The main contact is Emmanuel Baccelli (I
 RIOT-fp is also supported by the following partners:
 
 - **[Freie Universität Berlin](https://www.mi.fu-berlin.de/inf/index.html)**
-- **[Cryspen](https://cryspen.com/about/)**
+- **[Cryspen](https://cryspen.com/)**
