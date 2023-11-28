@@ -1,10 +1,23 @@
 ## Publications
 
+
+
 - FX Molina, E. Baccelli, K. Zandberg, D. Donsez, O. Alphand. Cubedate: Securing Software Updates in Orbit for Low-Power Payloads Hosted on CubeSats, in the 12th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN), Sept. 2023. [[PDF](https://hal.science/hal-03893509/file/1570858013%20paper%20%281%29.pdf)]
 
 - FX Molina, V. Roca, R. Dagher, E. Baccelli, N. Mitton, A. Boutet, M. Cunche. PEPPER: Precise Privacy-Preserving Contact Tracing with Cheap, BLE/UWB Capable Tokens, in the 24th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), June 2023. [[PDF](https://inria.hal.science/hal-04064415/file/pepper_ct_on_token_wowmom2023_final.pdf)] 
 
+- G. Selander, J. Preuß Mattsson, M. Vučinić, M. Richardson. Lightweight Authorization using Ephemeral Diffie-Hellman Over COSE. Internet Eng. Task Force, draft-ietf-lake-authz-00, 2023. [PDF](https://datatracker.ietf.org/doc/pdf/draft-ietf-lake-authz-00)
+
+- Selander, Göran, S. Raza, M. Furuhed, M. Vučinić, T. Claeys. Protecting EST Payloads with OSCORE. Internet Eng. Task Force, draft-ietf-ace-coap-est-oscore-03, 2023. [PDF](https://datatracker.ietf.org/doc/pdf/draft-ietf-ace-coap-est-oscore-03)
+
+- J. Preuß Mattsson, F. Palombini, M. Vučinić. Comparison of CoAP Security Protocols. Internet Eng. Task Force, draft-ietf-iotops-security-protocol-comparison-03, 2023. [PDF](https://datatracker.ietf.org/doc/pdf/draft-ietf-iotops-security-protocol-comparison-03)
+
+- B. Moran, H. Tschofenig, H. Birkholz, K. Zandberg. A Concise Binary Object Representation (CBOR)-based Serialization Format
+ for the Software Updates for Internet of Things (SUIT) Manifest. IETF working group draft, October 2023. [PDF](https://datatracker.ietf.org/doc/pdf/draft-ietf-suit-manifest-24)
+
 - G. Banegas, K. Carrier, A. Chailloux, A. Couvreur, T. Debris-Alazard, P. Gaborit, P. Karpman, J. Loyer, R. Niederhagen, N. Sendrier, B. Smith, JP Tillich, Wave Signatures, NIST Post-Quantum Cryptography Competition: Round 1 Submission, June 2023. [[PDF](https://csrc.nist.gov/csrc/media/Projects/pqc-dig-sig/documents/round-1/spec-files/wave-spec-web.pdf)]
+
+- G. Selander, J. Preuß Mattsson, M. Serafin, M. Tiloca, M. Vučinić. Traces of EDHOC. Internet Eng. Task Force, draft-ietf-lake-traces-08, 2023. [PDF](https://datatracker.ietf.org/doc/pdf/draft-ietf-lake-traces-08)
 
 - G. Banegas, V. Gilchrist, A. Le Dévéhat, B. Smith. Fast and Frobenius: Rational Isogeny Evaluation over Finite Fields. arXiv preprint, June 2023. [[PDF](https://arxiv.org/pdf/2306.16072.pdf)]
 

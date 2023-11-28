@@ -36,14 +36,14 @@ navbar_list:
   link: events
 - name: Publications
   link: publications
+- name: Standards
+  link: standardization
 - name: Software
   link: software
 - name: Partners
   link: partners
 - name: Contact
   link: contact
-#- name: Registration
-#  link: https://www.ieee-security.org/TC/EuroSP2020/
 
 # Configuration for asides.html
 asides:
