@@ -4,9 +4,11 @@ In the context of their work within RIOT-fp, project members develop, upstream a
 
 - [RIOT](https://github.com/RIOT-OS/RIOT) -- A general-purpose operating system and various software libraries for low-power IoT devices, including an implementation of [SUIT](https://datatracker.ietf.org/wg/suit/about/) secured IoT software updates.
 
-- [EDHOC-C](https://github.com/future-proof-iot/EDHOC-C) and [py-edhoc](https://github.com/openwsn-berkeley/py-edhoc) -- implementations of Ephemeral Diffie-Hellman over COSE ([EDHOC](https://datatracker.ietf.org/doc/html/draft-ietf-lake-edhoc-09)).
+- [EDHOC-rs](https://github.com/openwsn-berkeley/edhoc-rs) -- implementation in Rust and hacpsec of Ephemeral Diffie-Hellman over COSE (EDHOC)
 
 - [libCOSE](https://github.com/bergzand/libcose) -- A compact implementation of CBOR Object Signing and Encryption ([COSE](https://datatracker.ietf.org/doc/html/rfc8152)).
+
+- [Hax](https://github.com/hacspec/hax) --  an open source implementation of a tool for high assurance translations of Rust into formal languages such as F* or Coq. 
 
 - [Hacspec](https://github.com/hacspec/hacspec) -- Succinct, executable, verifiable specs for high-assurance Rust software modules.
 
@@ -20,4 +22,8 @@ In the context of their work within RIOT-fp, project members develop, upstream a
 
 - [riotboot-rs](https://github.com/future-proof-iot/riotboot-rs) -- An implementation of RIOT's bootloader in Rust and Hacspec. 
 
+- [EDHOC-C](https://github.com/future-proof-iot/EDHOC-C) and [py-edhoc](https://github.com/openwsn-berkeley/py-edhoc) -- implementations of Ephemeral Diffie-Hellman over COSE ([EDHOC](https://datatracker.ietf.org/doc/html/draft-ietf-lake-edhoc-09)).
+
 - [nanoCBOR](https://github.com/bergzand/NanoCBOR) -- A tiny CBOR library aimed at embedded and heavily constrained devices.
+
+- [femto-containers](https://github.com/future-proof-iot/Femto-Container_tutorials) -- A hosting engine for tiny [rBPF]{https://dl.acm.org/doi/pdf/10.1145/3528535.3565242} virtual machines on IoT microcontrollers, with a verified interpreter.
