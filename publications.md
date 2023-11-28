@@ -1,8 +1,10 @@
 ## Publications
 
-
+- G. Banegas et al. Disorientation Faults in CSIDH. In EUROCRYPT, 2023. [[PDF](https://eprint.iacr.org/2022/1202.pdf)]
 
 - FX Molina, E. Baccelli, K. Zandberg, D. Donsez, O. Alphand. Cubedate: Securing Software Updates in Orbit for Low-Power Payloads Hosted on CubeSats, in the 12th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN), Sept. 2023. [[PDF](https://hal.science/hal-03893509/file/1570858013%20paper%20%281%29.pdf)]
+
+- B. Smith. Advances in Asymmetric Cryptographic Algorithms. HDR, Institut Polytechnique de Paris, 2023. [[PDF](https://inria.hal.science/tel-04238166v1/document)]
 
 - FX Molina, V. Roca, R. Dagher, E. Baccelli, N. Mitton, A. Boutet, M. Cunche. PEPPER: Precise Privacy-Preserving Contact Tracing with Cheap, BLE/UWB Capable Tokens, in the 24th IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), June 2023. [[PDF](https://inria.hal.science/hal-04064415/file/pepper_ct_on_token_wowmom2023_final.pdf)] 
 
