@@ -1,4 +1,4 @@
-## Publications
+## Publications & Academic Conferences
 
 - G. Banegas et al. Disorientation Faults in CSIDH. In EUROCRYPT, 2023. [[PDF](https://eprint.iacr.org/2022/1202.pdf)]
 
@@ -7,6 +7,8 @@
 - FX Molina, E. Baccelli, K. Zandberg, D. Donsez, O. Alphand. Cubedate: Securing Software Updates in Orbit for Low-Power Payloads Hosted on CubeSats, in the 12th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN), Sept. 2023. [[PDF](https://hal.science/hal-03893509/file/1570858013%20paper%20%281%29.pdf)]
 
 - T. Wallez, J. Protzenko,  K. Bhargavan. Comparse: Provably Secure Formats for Cryptographic Protocols. Cryptology ePrint Archive, 2023. [[PDF](https://eprint.iacr.org/2023/1390.pdf)]
+
+- F. Kiefer, K. Bhargavan. Hacspec: a Gateway to High-Assurance Cryptography. In Real World Crypto, 2023. [[PDF](https://iacr.org/submit/files/slides/2023/rwc/rwc2023/124/slides.pdf)]
 
 - B. Smith. Advances in Asymmetric Cryptographic Algorithms. HDR, Institut Polytechnique de Paris, 2023. [[PDF](https://inria.hal.science/tel-04238166v1/document)]
 
