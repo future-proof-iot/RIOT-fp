@@ -1,7 +1,7 @@
 ## Activities & Related News
 
 ### New Report on our Software Launched in Space
-*29.09.2023.* We published a new report on how our IoT secure update software integrated in RIOT is used on a nano-satellite recently launched in near-Earth orbit. See the report [here](https://hal.science/hal-03893509/file/1570858013%20paper%20%281%29.pdf)!
+*29.09.2023.* We published a new report on how our IoT secure update software integrated in RIOT is used on a nano-satellite recently launched in near-Earth orbit. See the preprint [here](https://github.com/future-proof-iot/RIOT-fp/blob/master/preprints/Cubedate-IEEE-PEMWN-2023.pdf)! The paper will also be presented at IEEE PEMWN 2023.
 
 
 ### We are a Real World Crypto 2023

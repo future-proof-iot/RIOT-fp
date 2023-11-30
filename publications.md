@@ -4,7 +4,7 @@
 
 - C. Jacomme, E. Klein, S. Kremer, M. Racouchot. A comprehensive, formal and automated analysis of the EDHOC protocol. USENIX Security Symposium, 2023. [[PDF](https://charlie.jacomme.fr/publication/jkkr-usenix-23/jkkr-usenix-23.pdf)]
 
-- FX Molina, E. Baccelli, K. Zandberg, D. Donsez, O. Alphand. Cubedate: Securing Software Updates in Orbit for Low-Power Payloads Hosted on CubeSats, in the 12th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN), Sept. 2023. [[PDF](https://hal.science/hal-03893509/file/1570858013%20paper%20%281%29.pdf)]
+- FX Molina, E. Baccelli, K. Zandberg, D. Donsez, O. Alphand. Cubedate: Securing Software Updates in Orbit for Low-Power Payloads Hosted on CubeSats, in the 12th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN), Sept. 2023. [[PDF](https://github.com/future-proof-iot/RIOT-fp/blob/master/preprints/Cubedate-IEEE-PEMWN-2023.pdf)]
 
 - T. Wallez, J. Protzenko,  K. Bhargavan. Comparse: Provably Secure Formats for Cryptographic Protocols. Cryptology ePrint Archive, 2023. [[PDF](https://eprint.iacr.org/2023/1390.pdf)]
 
