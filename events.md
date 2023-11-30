@@ -1,6 +1,13 @@
 ## Activities & Related News
 
-### New Publication on formally-verified eBPF-based Femto-Container Hosting Engine
+### New Report on our Software Launched in Space
+*29.09.2023.* We published a new report on how our IoT secure update software integrated in RIOT is used on a nano-satellite recently launched in near-Earth orbit. See the report [here](https://hal.science/hal-03893509/file/1570858013%20paper%20%281%29.pdf)!
+
+
+### We are a Real World Crypto 2023
+*27.03.2023.* Our work on hax, a tool-independent spec language for formal verification, was presented at Real Workd Crypto 2023. See the [slides](https://iacr.org/submit/files/slides/2023/rwc/rwc2023/124/slides.pdf) here!
+
+### New Publication on Formally-verified eBPF-based Femto-Container Hosting Engine
 *22.08.2022.* We published and presented our work on this topic in the 34th International Conference on Computer Aided Verification (CAV 2022). The paper reports on our proof of fault isolation on an implementation of femto-containers integrated in RIOT and experimentally evaluated on commodity IoT microcontrollers. Check out the [preprint](https://www.irisa.fr/prive/talpin/papers/cav22.pdf)!
 
 ### New SUIT draft Specification Released
