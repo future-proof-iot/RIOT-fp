@@ -1,5 +1,11 @@
 ## Activities & Related News
 
+### It's a wrap!
+*01.12.2023.* Our project has run its course. Long live follow-ups! See our [software](https://future-proof-iot.github.io/RIOT-fp/software) which keeps on being maintained and developed. See our [publications](https://future-proof-iot.github.io/RIOT-fp/publications) which layed the ground for follow-up research activities, as well as diverse IETF specifications that are in the process of being standardized. And there's more! Among others, a startup is born in the process: [Cryspen](https://cryspen.com/about/).
+
+### New SUIT draft Specification Released
+*01.11.2023.* We have published a new version (-24) of the IETF draft specification for the [SUIT manifest](https://datatracker.ietf.org/doc/draft-ietf-suit-manifest/24/) which secures IoT software updates metadata by re-using CBOR and COSE, end-to-end while in transit from the authorized software OEM to the IoT device, in a low-power manner.
+
 ### New Report on our Software Launched in Space
 *29.09.2023.* We published a new report on how our IoT secure update software integrated in RIOT is used on a nano-satellite recently launched in near-Earth orbit. See the preprint [here](https://github.com/future-proof-iot/RIOT-fp/blob/master/preprints/Cubedate-IEEE-PEMWN-2023.pdf)! The paper will also be presented at IEEE PEMWN 2023.
 
@@ -11,11 +17,10 @@
 *22.08.2022.* We published and presented our work on this topic in the 34th International Conference on Computer Aided Verification (CAV 2022). The paper reports on our proof of fault isolation on an implementation of femto-containers integrated in RIOT and experimentally evaluated on commodity IoT microcontrollers. Check out the [preprint](https://www.irisa.fr/prive/talpin/papers/cav22.pdf)!
 
 ### New SUIT draft Specification Released
-*22.04.2022.* We have published a new version (-17) of the IETF draft specification for the [SUIT manifest](https://datatracker.ietf.org/doc/pdf/draft-ietf-suit-manifest-17) which secures IoT software updates metadata by re-using CBOR and COSE, end-to-end while in transit from the authorized software OEM to the IoT device, in a low-power manner.
+*22.04.2022.* We have published a new version (-17) of the IETF draft specification for the [SUIT manifest](https://datatracker.ietf.org/doc/html/draft-ietf-suit-manifest-17) which secures IoT software updates metadata by re-using CBOR and COSE, end-to-end while in transit from the authorized software OEM to the IoT device, in a low-power manner.
 
 
 ### New Publication on Post-Quantum Security for Low-power IoT Software Updates
-
 *18.03.2022*. Our work on analyzing key aspects of quantum-resistance for security primitives enabling software updates on low-power IoT devices has been accepted for publication at ACNS 2022. In  this study, taking SUIT and its open source implementation in RIOT as case study, we experimentally evaluate and compare post-quantum schemes that are currently available for digital signature schemes (Lattice-based with Falcon, or Dilithium, and hash-based with LMS), against typical pre-quantum options (ed25519, P-256) and we cover also post-quantum considerations concerning hash functions (SHA-2 and SHA-3) use as specified within SUIT. [Preprint](https://eprint.iacr.org/2021/781.pdf)
 
 ### Speed Record for Isogeny-based Cryptosystems
